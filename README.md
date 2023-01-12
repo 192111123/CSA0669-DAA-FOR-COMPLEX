@@ -1,7 +1,6 @@
 # CSA0669-DAA-FOR-COMPLEX
-DAY 1:-
-
-1..fibonacci series
+DAY 1:-  
+   1.fibonacci series
 
 2.armstrong number or not
 
