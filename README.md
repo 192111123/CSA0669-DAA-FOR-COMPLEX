@@ -1,15 +1,26 @@
 # CSA0669-DAA-FOR-COMPLEX
 DAY 1:-  
+
    1.fibonacci series
+   
    2.armstrong number or not
+   
    3.bubble sort
+   
    4.factorial
+   
    5.GCD
+   
    6.largest number in an array
+   
    7.matrix multiplication
+   
    8.palindrome
+   
    9.prime number
+   
    10.selection sort
+
 
 DAY 2:-
 
