@@ -10,6 +10,7 @@ DAY 1:-
 8.palindrome
 9.prime number
 10.selection sort
+
 DAY 2:-
 11.copy one string to another
 12.binary search
@@ -21,6 +22,7 @@ DAY 2:-
 18..printing of prime numbers
 19.napsack problem using greedy algorithm
 20.prims MST using greedy algorithm
+
 DAY 3:-
 21.
 22.
@@ -32,6 +34,7 @@ DAY 3:-
 28.
 29.
 30.
+
 DAY 4:-
 31.
 32.
